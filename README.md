@@ -10,4 +10,3 @@ name2role.json と role2name.json は，Pref13_tokyo.json (都議会会議録)�
 なお，日付によって対応が変化するため，key の値には日付も含めます．
 例えば name2role.json の key は"2011-06-23:中井敬三" のような形式になります．
 role2name.json の場合は "2011-06-23:港湾局長" のような形式になります．
-role2name.json
